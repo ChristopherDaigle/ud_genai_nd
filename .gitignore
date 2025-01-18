@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 
 1/results
+*.DS_Store
