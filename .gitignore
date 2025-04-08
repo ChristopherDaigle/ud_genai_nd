@@ -163,3 +163,5 @@ cython_debug/
 
 */results/*
 *.DS_Store
+
+1_gen_ai_fundamentals/2_foundation_models/data/
